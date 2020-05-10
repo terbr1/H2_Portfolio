@@ -18,6 +18,12 @@ p
     margin-right: 20px;
 }
 
+h1,
+h2,
+h3 {
+    text-align: center;
+    color:cadetblue;
+}
 body {
     background-image: url(https://www.fireworks-videos.com/wp-content/uploads/2020/02/background_stars-and-sky_2160p.jpg);
 }
