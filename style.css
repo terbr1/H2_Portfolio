@@ -10,7 +10,6 @@
 
 h1, 
 p
-
  {
     text-align: left;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -33,7 +32,9 @@ p {
     margin-right: 100px;
 }
 
-.card-link {
+.card-link,
+.list-group
+ {
     border-style: solid;
     border-color: black;
     background-color: black;
@@ -45,11 +46,25 @@ p {
     background-color: burlywood;
 }
 
-h5 {
+h5
+ {
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: cornsilk;
+    color: darkgrey;
+    
 
+}
+
+.card-body,
+.card-quote,
+.card-header-quote {
+    background-color: black;
+    text-align: center;
+ }
+
+h4
+ {
+    color: cadetblue
 }
 
 
