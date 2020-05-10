@@ -1,5 +1,6 @@
 
-.card-img-top {
+.card-img-top,
+.imageCS {
     position: relative;
     height: 300px;
     width: 300px;
@@ -9,6 +10,7 @@
 
 h1, 
 p
+
  {
     text-align: left;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -16,7 +18,7 @@ p
     margin-right: 20px;
 }
 
-body{
+body {
     background-image: url(https://www.fireworks-videos.com/wp-content/uploads/2020/02/background_stars-and-sky_2160p.jpg);
 }
 
@@ -27,12 +29,22 @@ p {
 
 .card-link {
     border-style: solid;
+    border-color: black;
     background-color: black;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: cadetblue;
 }
 
+.contactpage {
+    background-color: burlywood;
+}
 
+h5 {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: cornsilk;
+
+}
 
 
 
