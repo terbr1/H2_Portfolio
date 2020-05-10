@@ -1,22 +1,39 @@
 
-.contactpage {
-    background-color: lightgreen;
-
+.card-img-top {
+    position: relative;
+    height: 300px;
+    width: 300px;
+    border-radius: 10%;
+    margin-left: 20px;
 }
 
-h1 {
-    font-size: 30px;
-    font-style: oblique;
+h1, 
+p
+ {
+    text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: grey;
+    margin-right: 20px;
 }
 
-#carouselExampleFade {
-    height: 100px;
-    margin-left: 100px;
+body{
+    background-image: url(https://www.fireworks-videos.com/wp-content/uploads/2020/02/background_stars-and-sky_2160p.jpg);
+}
+
+p {
+    color: grey;
     margin-right: 100px;
-    margin-bottom: -50px;
-        
 }
-.PlantImage {
-    width: 1000;
-    height: 500px;
+
+.card-link {
+    border-style: solid;
+    background-color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: cadetblue;
 }
+
+
+
+
+
+
