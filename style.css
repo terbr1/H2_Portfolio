@@ -24,7 +24,9 @@ h3 {
     color:cadetblue;
 }
 body {
-    background-image: url(https://www.fireworks-videos.com/wp-content/uploads/2020/02/background_stars-and-sky_2160p.jpg);
+    background-image: url(https://sites.psu.edu/garyyoung/files/2016/06/background-1-1024x549.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
 }
 
 p {
