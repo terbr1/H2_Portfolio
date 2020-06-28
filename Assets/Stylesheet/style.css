@@ -13,7 +13,7 @@ p
  {
     text-align: left;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: grey;
+    color:antiquewhite;
     margin-right: 20px;
 }
 
@@ -21,7 +21,7 @@ h1,
 h2,
 h3 {
     text-align: center;
-    color:cadetblue;
+    color:antiquewhite;
 }
 body {
     background-image: url(https://sites.psu.edu/garyyoung/files/2016/06/background-1-1024x549.jpg);
@@ -30,7 +30,7 @@ body {
 }
 
 p {
-    color: grey;
+    color: aliceblue;
     margin-right: 100px;
 }
 
